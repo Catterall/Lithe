@@ -80,7 +80,7 @@ Planned features/additions:
 In regards to the GitHub page, the GitHub wiki is on the way and will be here soon. Furtheremore, I will spend time commenting the `.vb` files in the source code above, allowing viewing users more clarity into the code; this will also come very soon.
 
 In regards to the program, I suppose I could make a more fancy, modern background and add even more buttons to the LaTeX snippets menu.
-
+Furthermore, I may add a new pop-up form allowing the user to customize how the PNG file, such as size, etc.
 
 Project History:
 -
