@@ -28,7 +28,7 @@ Installing Lithe can be quite a pain if you don't read this guide - if you do re
 - Thirdly, unzip the 7z release file to your desired location. This will give you access to the Lithe folder.
 - Finally, run the Lithe.exe file to run the application.
 
-*Notice: If you accidently break the application, perhaps deleting a .bat file or any other mistake, you can reinstall the application anytime here.*
+*Notice: If you accidently break the application, perhaps by deleting a .bat file or any other mistake, you can reinstall the application anytime here.*
 
 
 Usage Guide:
