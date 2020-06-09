@@ -5,12 +5,12 @@
 
 Note:
 -
-This is a **early beginner** project, created for any future portfolios I may need.
+This is an **early beginner** project, created for any future portfolios I may need.
 
 
 Introduction:
 -
-Lithe is a free, windows desktop application to convert LaTeX equations to PNG files on the fly. Furtheremore, the application contains a helpful 'LaTeX snippets' windows, that can be used to add snippets of LaTeX code to the editor, so you don't have to remember every single thing. However, it is required that you know the basics of LaTeX - or at least the mathematical side of it.
+Lithe is a free, windows desktop application to convert LaTeX equations to PNG files on the fly. Furthermore, the application contains a helpful 'LaTeX snippets' window, that can be used to add snippets of LaTeX code to the editor, so you don't have to remember every single thing. However, it is required that you know the basics of LaTeX - or at least the mathematical side of it.
 
 
 Purpose:
