@@ -75,13 +75,6 @@ To report an issue or an error different to the ones described - or similar too 
 https://github.com/Catterall/Lithe/issues
 
 
-Planned features/additions:
--
-In regards to the GitHub page, the GitHub wiki is on the way and will be here soon. Furtheremore, I will spend time commenting the `.vb` files in the source code above, allowing viewing users more clarity into the code; this will also come very soon.
-
-In regards to the program, I suppose I could make a more fancy, modern background and add even more buttons to the LaTeX snippets menu.
-Furthermore, I may add a new pop-up form allowing the user to customize how the PNG file, such as size, etc.
-
 Project History:
 -
 Lithe originally started as, "Virtual Formulae", a free physics formula program that would allow users to quickly select a physics formula and work out the answer to a missing parameter. However, I quickly got overwhelmed, realising that adding every physics formula in existence to a program might take a while. However, I would not be beaten. After deleting Virtual Formulae I thought to myself, "What would be a good application that would be both simple to program as the beginner that I am and useful?". It was at this point - my mind filled with formulas, that I realised that I hadn't seen any offline LaTeX to PNG converter applications for people who don't understand TeX commands ever. Not even one. So, I made it.
@@ -99,3 +92,7 @@ Most of my first attempts were complete disasters, I'm not afraid to admit that.
 Eventually I created the .bat file, made it do a few things that you've already read further up the README.md file and now I only had one last thing to do; test it fully... OK it worked, no suprises, you wouldn't reading this if otherwise. Grant it, you can still mess up the application if you screw with it on purpose, but it isn't "Oh no, I need reinstall" levels of messed up - more just, "Oh no, I need to rerun the program and maybe delete that/those wonky image(s) I just made."
 
 And that's pretty much it. The history of this project, now I can breathe a sigh of relief.
+
+Note:
+-
+This is a beginner project created for my portfolio.
