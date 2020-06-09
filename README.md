@@ -15,7 +15,7 @@ Lithe is a free, windows desktop application to convert LaTeX equations to PNG f
 
 Purpose:
 -
-The purpose of Lithe is simple. There is an abundance of websites and web applications that all allow a user to generate a PNG file from LaTeX code - particulary when converting equations and formulas to LaTeX. However, I couldn't find any desktop applications that could be used offline to acheive the same purpose so - in typical programmer fashion - I just made my own. Granted, it might not look as cool - or professional - as its contemparies, but as long as it is easily understood when looking at it; it's the functionality that counts.
+The purpose of Lithe is simple. There is an abundance of websites and web applications that all allow a user to generate a PNG file from LaTeX code - particulary when converting equations and formulas to LaTeX. However, I'll be in need of a portfolio one day and so I decided to make a basic desktop version as my first ever project (well, over than *really* small things). Granted, it might not look as cool - or professional - as its contemparies, but as long as it is easily understood when looking at it; it's the functionality that counts.
 
 
 Installation Guide:
