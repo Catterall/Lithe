@@ -95,4 +95,4 @@ And that's pretty much it. The history of this project, now I can breathe a sigh
 
 Note:
 -
-This is a beginner project created for my portfolio.
+This is a **beginner** project created for my future portfolio.
