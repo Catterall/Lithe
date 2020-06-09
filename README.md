@@ -42,7 +42,7 @@ After running the Lithe.exe program, you'll be greeted with the main window, nat
 - 3: This is where you type the desired name of you resultant PNG file.
 - 4: This is the button you pressed when done; it will create a PNG image inside the `generated images` folder.
 - 5: This is the button that will take you to this page.
-- 6: This button cures world hunger.
+- 6: Exits Lithe (with confirmation).
 
 
 How it all works:
