@@ -1,4 +1,4 @@
-# Lithe
+# Beginner Project 1: Lithe
 *Lithe /lʌɪð/; Thin, supple, and graceful.*
 
 ![Lithe main window](https://user-images.githubusercontent.com/66549839/84096073-d17f8400-a9f8-11ea-89f8-0c6208f3d93a.png)
