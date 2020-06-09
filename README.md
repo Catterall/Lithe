@@ -3,6 +3,11 @@
 
 ![Lithe main window](https://user-images.githubusercontent.com/66549839/84096073-d17f8400-a9f8-11ea-89f8-0c6208f3d93a.png)
 
+Note:
+-
+This is a **early beginner** project, created for any future portfolios I may need.
+
+
 Introduction:
 -
 Lithe is a free, windows desktop application to convert LaTeX equations to PNG files on the fly. Furtheremore, the application contains a helpful 'LaTeX snippets' windows, that can be used to add snippets of LaTeX code to the editor, so you don't have to remember every single thing. However, it is required that you know the basics of LaTeX - or at least the mathematical side of it.
@@ -92,7 +97,3 @@ Most of my first attempts were complete disasters, I'm not afraid to admit that.
 Eventually I created the .bat file, made it do a few things that you've already read further up the README.md file and now I only had one last thing to do; test it fully... OK it worked, no suprises, you wouldn't reading this if otherwise. Grant it, you can still mess up the application if you screw with it on purpose, but it isn't "Oh no, I need reinstall" levels of messed up - more just, "Oh no, I need to rerun the program and maybe delete that/those wonky image(s) I just made."
 
 And that's pretty much it. The history of this project, now I can breathe a sigh of relief.
-
-Note:
--
-This is a **beginner** project created for my future portfolio.
